@@ -1,6 +1,6 @@
  Hi there 👋
 
-About Me
+
 A tech-driven problem solver who thrives on delivering value to clients through innovative solutions. Whether you’re looking for a collaborator, mentor, or someone to bring your ideas to life, here’s why I might be the perfect fit for you. 
 
 🛠 What I Bring to the Table
