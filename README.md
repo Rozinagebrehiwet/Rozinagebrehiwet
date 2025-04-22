@@ -5,7 +5,7 @@ A tech-driven problem solver who thrives on delivering value to clients through 
 
 🛠 What I Bring to the Table
 Web Development Expertise: Crafting intuitive, responsive, and scalable web applications tailored to your needs.
-AI/ML Engineering: Building intelligent systems that solve real-world problems and drive business growth.
+AI/ML Engineering: Still Exploring and Building intelligent systems that solve real-world problems and drive business growth.
 Open-Source Contributions: Sharing knowledge and learning from the global developer community to stay ahead of the curve.
 
 💡 Why Work With Me?
